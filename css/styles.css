@@ -7,3 +7,15 @@ body {
 body {
     color: #061a40;
 }
+
+img {
+    border: 5px solid #dd614a;
+}
+
+.headers {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.othertext {
+    font-family: 'Open Sans', sans-serif;
+}
